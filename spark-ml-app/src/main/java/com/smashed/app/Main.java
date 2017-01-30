@@ -8,6 +8,8 @@ public class Main {
 		
 		System.out.println("GIT TEST");
 
+		System.out.println("New branch");
+		
 	}
 
 }
